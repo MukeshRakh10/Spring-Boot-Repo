@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: farm
+server:
+  port: 8081
+  servlet:
+    context-path: /app
+   
